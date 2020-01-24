@@ -1,0 +1,46 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#9703A9F4"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/welcome_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#A94454AF"
+        android:textSize="24dp"
+        android:textStyle="bold"
+        android:padding="24dp"/>
+
+
+    <Button
+        android:id="@+id/speak_button"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:background="#A94454AF"
+        android:layout_marginTop="10dp"
+        android:padding="24dp"/>
+
+    <Button
+        android:id="@+id/update_button"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:background="#A94454AF"
+        android:layout_marginTop="10dp"
+        android:padding="24dp"/>
+
+    <Button
+        android:id="@+id/next_button"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:background="#A94454AF"
+        android:layout_marginTop="10dp"
+        android:padding="24dp"/>
+
+
+
+
+</LinearLayout>

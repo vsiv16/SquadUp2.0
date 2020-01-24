@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658180481496",
+    "firebase_url": "https://squadup-bca5d.firebaseio.com",
+    "project_id": "squadup-bca5d",
+    "storage_bucket": "squadup-bca5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658180481496:android:4f6f6edad4831c5969d2ad",
+        "android_client_info": {
+          "package_name": "com.example.sivani.squad_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658180481496-4pl4djm8t90tse9gocvpnm8l27i2mehl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyjA4OtftecNE6Wwk4nA-prHSmhizl-qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658180481496-4pl4djm8t90tse9gocvpnm8l27i2mehl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
