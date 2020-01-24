@@ -5,7 +5,7 @@ SquadUp is an Android app that is intended to be used in situations of emergency
 For more information, please visit:
 https://tinyurl.com/SquadUpInfo
 	
-# About Version 2.0
+## About Version 2.0
 Upcoming features for SquadUp2.0 include:
 - Allow for contacts to be directly imported from user's phone
 - Conact "squad" in a group chat setting
